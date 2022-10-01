@@ -1,4 +1,5 @@
 # Scheduler Project
+Project with scheduler functionality
 
 To run the application
 
