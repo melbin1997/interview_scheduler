@@ -1,5 +1,5 @@
 # Scheduler Project
-Project with scheduler functionality
+Project with scheduler functionality in Django
 
 To run the application
 
